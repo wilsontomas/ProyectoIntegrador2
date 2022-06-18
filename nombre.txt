@@ -1,2 +1,3 @@
-Diseño de una aplicacion para calculo presupuestario de cursos virtual en el area de la ingenieria de software.
+Diseño de una aplicacion movil para calculo presupuestario de cursos virtuales
+ para instituciones educativas en el area de la ingenieria de software
 
